@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_ads_background">#FFFFFF</color>
+    <color name="color_ads_button_background">#F54B4D</color>
+    <color name="color_text_button">#FFFFFF</color>
+    <color name="color_text_title">#000000</color>
+    <color name="color_text_body">#787878</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFF</color>
+    <color name="red">#F54B4D</color>
+    <color name="fb_border_color">#F54B4D</color>
+<!--    <color name="fb_border_color">#CDCDCD</color>-->
+</resources>
